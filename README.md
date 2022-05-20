@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/61414759?v=4" alt="Houssem" /> </p>
 
 
-- 💬 Ask me about **Angular,Nodejs**
+- 💬 Ask me about **Javascript,Angular,Nodejs**
 
 - 📫 How to reach me **houssemm09@gmail.com**
 
